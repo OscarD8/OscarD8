@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+    <h3>🍩 Hi 🍩</h3>
+</div>
 
-<!--
-**OscarD8/OscarD8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ **Software Engineering Student | Leeds Beckett University** 📚
+<br>
 
-Here are some ideas to get you started:
+*In Progress...*
+<br>
+🟩🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+✉️ **Email**: oscardavison8@outlook.com
+
+💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/oscar-davison-879374244/) 
+
