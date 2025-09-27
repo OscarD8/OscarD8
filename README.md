@@ -2,7 +2,7 @@
     <h3>👋 Hi 👋</h3>
 </div>
 
-☕ **Software Engineering Student | Leeds Beckett University** 📚
+☕ **Software Engineering Student | 2nd Year | Leeds Beckett University** 📚
 <br>
 
 
