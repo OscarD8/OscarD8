@@ -16,7 +16,7 @@
 - **Reply App Breakdown** – [GitHub Repo](https://github.com/OscarD8/reply-app-breakdown)  
   Recreated complex adaptive UI from memory, with unit & instrumentation testing.
   
-### Skills
+### Skills (in progress)
 - **Languages:** Kotlin, Java, SQL  
 - **Frameworks/Tools:** Android Studio, Jetpack Compose, Git  
 - **Other:** Problem-solving, UI/UX design, Database reporting
