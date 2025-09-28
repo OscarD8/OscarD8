@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-☕ **Software Engineering Student | 2nd Year | Leeds Beckett University** 📚
+☕ Software Engineering Student | 2nd Year | Leeds Beckett University 📚
 </div>
 <br>
 <br>
