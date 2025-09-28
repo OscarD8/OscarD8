@@ -25,5 +25,5 @@
 
 ✉️ **Email**: oscardavison8@outlook.com
 
-💼 **LinkedIn**: [Connect with me](www.linkedin.com/in/oscar-davison) 
+💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/oscar-davison)
 
