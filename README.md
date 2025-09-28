@@ -2,9 +2,24 @@
     <h3>👋 Hi 👋</h3>
 </div>
 
+<div align="center">
 ☕ **Software Engineering Student | 2nd Year | Leeds Beckett University** 📚
+</div>
+<br>
 <br>
 
+
+### Projects
+- **Cloudburst MyCity App** – [GitHub Repo](https://github.com/OscarD8/cloudburst-android-app)  
+  Solarpunk-themed city guide built with Jetpack Compose; practices adaptive layouts, navigation, state management with unidirectional dataflow, and declarative UI.
+  (In Progress)
+- **Reply App Breakdown** – [GitHub Repo](https://github.com/OscarD8/reply-app-breakdown)  
+  Recreated complex adaptive UI from memory, with unit & instrumentation testing.
+  
+### Skills
+- **Languages:** Kotlin, Java, SQL  
+- **Frameworks/Tools:** Android Studio, Jetpack Compose, Git  
+- **Other:** Problem-solving, UI/UX design, Database reporting
 
 <br>
 
