@@ -13,6 +13,8 @@
 - **Cloudburst MyCity App** – [GitHub Repo](https://github.com/OscarD8/cloudburst-android-app)  
   Solarpunk-themed city guide built with Jetpack Compose; practices adaptive layouts, navigation, state management with unidirectional dataflow, and declarative UI.
   (In Progress)
+- **Modular Android Architecture Template** [GitHub Repo](https://github.com/OscarD8/android-architecture-modular-template)    
+  A clean, multi-module boilerplate for building Android apps using modern best practices.
 - **Reply App Breakdown** – [GitHub Repo](https://github.com/OscarD8/reply-app-breakdown)  
   Recreated complex adaptive UI from memory, with unit & instrumentation testing.
   
