@@ -9,7 +9,7 @@ Software Engineering Student | 2nd Year | Leeds Beckett University ☕
 <br>
 
 **Languages in progress:** Kotlin, Java, SQL  
-**Tools/Frameworks** Android Studio, Jetpack Compose
+**Tools/Frameworks** Kotlin Multiplatform, Android Studio, Jetpack Compose
 
 <br>
 <br>
