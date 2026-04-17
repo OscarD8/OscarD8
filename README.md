@@ -3,24 +3,20 @@
 </div>
 
 <div align="center">
-Software Engineering Student | 2nd Year | Leeds Beckett University ☕ 
+☕ Software Engineering Student | 2nd Year | Leeds Beckett University ☕ 
 </div>
 <br>
 <br>
 
-**Languages in progress:** Kotlin, Java, SQL  
-**Tools/Frameworks** Kotlin Multiplatform, Android Studio, Jetpack Compose
+<div align="center">
+    
+**In progress** | `Kotlin` `KMP` `Compose Multiplatform` `SQL` `Java`
+
+**Current focus** | Edge AI  •  Privacy-by-Design  •  Local-First
 
 <br>
 <br>
-
-**State Management** – [Repo](https://github.com/OscarD8/cloudburst-android-app-modular.git)  
-  *Built with Jetpack Compose; practices adaptive layouts, navigation, state management with unidirectional dataflow.*
-
-  <br>
-  <br>
-
- **Email**: oscardavison8@outlook.com
-
- **LinkedIn**: https://www.linkedin.com/in/oscar-davison
-
+    
+[LinkedIn](https://www.linkedin.com/in/oscar-davison) | [Email](mailto:oscardavison8@outlook.com)
+ 
+</div>
