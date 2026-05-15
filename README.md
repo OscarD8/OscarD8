@@ -12,7 +12,7 @@
     
 **In progress** | `Kotlin` `KMP` `Compose Multiplatform` `SQL` `Java`
 
-**Current focus** | Edge AI  •  Privacy-by-Design  •  Local-First
+**Current focus** | Edge AI  •  Local-First • Application Architecture
 
 <br>
 <br>
